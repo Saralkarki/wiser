@@ -1,1 +1,1 @@
-web: gunicorn ARRCCappV4:server
+web: gunicorn app:server
